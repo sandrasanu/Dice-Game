@@ -1,19 +1,53 @@
-.container
-    {
-      text-align: center; 
-    }
-    body
-    {
-     background-color: rgba(255, 192, 239, 0.815);
-     text-align: center; 
-    }
-    h1
-    {
-       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-       font-size: very large;
-    }
-    img
-    {
-         height: 10em;
-         width: auto;
-    }
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  margin: 20px;
+}
+
+body {
+  background-color: yellow;
+  margin: 0;
+}
+
+h1 {
+  margin: 10px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4.5rem;
+  color: #042f4b;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: #042f4b;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 10%;
+}
+
+.bottom {
+  padding-top: 30px;
+}
+
+.butn {
+  background: #042f4b;
+  font-family: "Indie Flower", cursive;
+  border-radius: 7px;
+  color: #ffff;
+  font-size: 30px;
+  padding: 16px 25px 16px 25px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #232931;
+  text-decoration: none;
+}

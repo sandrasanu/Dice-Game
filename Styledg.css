@@ -1,0 +1,19 @@
+.container
+    {
+      text-align: center; 
+    }
+    body
+    {
+     background-color: rgba(255, 192, 239, 0.815);
+     text-align: center; 
+    }
+    h1
+    {
+       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       font-size: very large;
+    }
+    img
+    {
+         height: 10em;
+         width: auto;
+    }
